@@ -48,3 +48,5 @@ How much probability other peoples will ordered Wired Headphones?
 
 Tools: Python and Power BI
 
+![image](https://user-images.githubusercontent.com/50180222/213212993-d7c01f33-7520-4149-acdc-a7a54016de14.png)
+
